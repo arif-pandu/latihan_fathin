@@ -1,0 +1,39 @@
+.bagian-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.bagian-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.tulisan {
+    background-color: pink;
+    height: 100;
+    width: 100;
+}
+
+.gambar {
+    background-color: yellow;
+    height: 100;
+    width: 100;
+}
+
+.animasi {
+    background-color: green;
+    height: 100;
+    width: 100;
+}
+
+.film {
+    background-color: purple;
+    height: 100;
+    width: 100;
+}
+
+.audio {
+    background-color: blue;
+    height: 100;
+    width: 100;
+}
